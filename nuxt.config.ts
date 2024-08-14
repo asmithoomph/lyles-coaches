@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   site: {
-    name: "Lyles Coaches",
+    name: "A Lyles & Son",
     defaultLocale: "en",
   },
 
